@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Dylan 👋
 
-<!--
-**Dylan1214/Dylan1214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Army officer and mathematics instructor working at the intersection of data analytics and education.
 
-Here are some ideas to get you started:
+## What I work on
+- Single variable calculus instruction and course design
+- Defense data analytics and dashboards
+- Python, R, Excel / Power Query, and LaTeX
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently learning
+- Git, GitHub, and GitLab workflows
+- CI/CD pipelines
+
+## Connect
+- [LinkedIn](https://www.linkedin.com/in/dylan-hyde-ab650b6a/)
